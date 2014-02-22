@@ -19,7 +19,7 @@ $servport = ""
 $user = ""
 #email account password:
 $pass = ""
-#your emal/the email you wish to send from:
+#your email/the email you wish to send from:
 $from = ""
 #the address you want the exfil email sent to:
 $to = ""
