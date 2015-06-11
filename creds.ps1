@@ -1,7 +1,7 @@
 ########################################################################################################################
 #creds.ps1
 #Used to socially steal a user's credentials
-#Script by: CuddlyCactusMC
+#Script by: LogoiLab
 #
 #synopsis:
 #
